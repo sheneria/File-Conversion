@@ -1,0 +1,9 @@
+pillow
+pandas
+openpyxl
+python-docx
+pypdf
+reportlab
+py7zr
+trimesh
+pymupdf
